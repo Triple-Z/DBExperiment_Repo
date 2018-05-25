@@ -31,3 +31,4 @@ drop table SC, S, C;
 drop procedure add_student_female;
 drop procedure add_student_male;
 
+drop user 'test_db_course_user'@'localhost';
