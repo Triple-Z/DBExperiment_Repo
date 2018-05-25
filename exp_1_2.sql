@@ -1,3 +1,9 @@
+# Database Experiment 1 & 2
+# SQL 定义功能、数据插入 & 数据查询
+# Date: 2018-05-19
+# Author: TripleZ <me@triplez.cn>
+
+
 create table S (
   Sno char(9) primary key,
   Sname char(20) not null,
