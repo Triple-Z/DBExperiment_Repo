@@ -14,6 +14,7 @@
     - [Experiment 4](#experiment-4)
     - [Experiment 5](#experiment-5)
     - [Experiment 6](#experiment-6)
+    - [Copyright](#copyright)
 
 <!-- /TOC -->
 
@@ -81,3 +82,19 @@
 实验六: 综合实验:实现一个小型管理信息系统
 
 熟练掌握 Visual C++、C#、Qt、Java、PHP 或 Python 等访问数据库的方法, 设计和实现学生通讯录或学生选课或类似的一个小型管理信息系统。要求具有数据的增加、删除、修改和查询的基本功能,并尽可能提供较多的查询功能,用户界面要友好。可选内容:数据库中存放 100 万条记录,测试访问时间;如效率较低,提供优化方案。
+
+
+> 开发技术栈：后端 Golang； 前端 Vue.js
+> 
+> 架构设计：一主二从的分离架构。
+
+项目仓库：
+
+前端：[IMDB-Frontend](https://github.com/Triple-Z/IMDB-Frontend)
+
+后端：[IMDB-Backend](https://github.com/Triple-Z/IMDB-Backend)
+
+
+## Copyright
+
+Copyright &copy; 2018 Zhenzhen Zhao
